@@ -1,5 +1,5 @@
 #BARTU CAN OLCAY - 21698387
-# ATIL AKGUŞ - 21893481
+#ATIL AKGUŞ - 21893481
 
 
 import pandas as pd
